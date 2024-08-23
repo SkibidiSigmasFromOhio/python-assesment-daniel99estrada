@@ -1,0 +1,13 @@
+print ("Log in")
+print (" ")
+
+user_input1 = input ("type user here: ")
+print (" ")
+user_input2 = input ("type password here: ")
+wrong = while
+if user_input1 == ("DevinTassy"):
+    if user_input2 == ("10132009dt*"):
+        print ("Succes!")
+    if wrong:
+        print (" ")
+        print ("access denied, try again")
